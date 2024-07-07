@@ -1,0 +1,41 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
+flaskenv/
