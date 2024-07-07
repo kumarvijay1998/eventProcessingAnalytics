@@ -118,3 +118,13 @@ you will get the local url on which the application is running, click on that an
 5. **Demo Video:**
     [Demo Video](https://drive.google.com/file/d/1WmSnTF_N6ZPXMo3jAZTi8Kl1LO1ebXTT/view?usp=share_link)
 
+
+### Data Aging and Historical Insights
+
+1. with the time the data will be huge, so the in memory data structure will become bottleneck.
+2. using some nosql database to store the different attributes will make our solution scalable.
+3. using nosql db mongodb
+    a. It will offer us flexibility.
+    b. The queries can be done easily on this db.
+    c. appropriate indexing for ex. on a timestamp would make our queries/apis even faster.
+4. we can expose the same result through flask apis.
