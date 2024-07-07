@@ -111,6 +111,10 @@ you will get the local url on which the application is running, click on that an
       to all the elements of the queue
       - But we have not removed our old logic which was using deque and was assuming that events will be in-
     order so that code is present in `in_order_event_processor.py` file but currently is not in use.
-2. **Assumptions:** 
+4. **Assumptions:** 
    - The events can be out of order as well
    - Each event is assumed to have the necessary attributes (`event`, `timestamp`, `item_id`, `customer_id`, `price`)
+    
+5. **Demo Video:**
+    [Demo Video](https://drive.google.com/file/d/1WmSnTF_N6ZPXMo3jAZTi8Kl1LO1ebXTT/view?usp=share_link)
+

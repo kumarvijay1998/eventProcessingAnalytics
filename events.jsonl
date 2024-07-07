@@ -13198,3 +13198,103 @@
 {"event": "add_to_cart", "timestamp": "2024-07-07T13:43:20.976545", "customer_id": 484, "item_id": 950, "quantity": 1, "price": 464}
 {"event": "remove_from_cart", "timestamp": "2024-07-07T13:43:20.978519", "customer_id": 685, "item_id": 325, "quantity": 2, "price": 263}
 {"event": "remove_from_cart", "timestamp": "2024-07-07T13:43:20.979448", "customer_id": 85, "item_id": 885, "quantity": 1, "price": 230}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.368720", "customer_id": 653, "item_id": 250, "quantity": 3, "price": 223}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.369478", "customer_id": 533, "item_id": 716, "quantity": 3, "price": 243}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.370011", "customer_id": 487, "item_id": 234, "quantity": 3, "price": 490, "total_amount": 1470}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.370247", "customer_id": 827, "item_id": 776, "page_url": "https://borneo.io/product/776"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.370451", "customer_id": 135, "item_id": 787, "page_url": "https://borneo.io/product/787"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.370649", "customer_id": 477, "item_id": 732, "quantity": 5, "price": 398, "total_amount": 1990}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.370846", "customer_id": 153, "item_id": 872, "quantity": 1, "price": 488, "total_amount": 488}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.371054", "customer_id": 145, "item_id": 654, "quantity": 4, "price": 225, "total_amount": 900}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.371295", "customer_id": 774, "item_id": 570, "quantity": 5, "price": 165}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.371535", "customer_id": 557, "item_id": 39, "quantity": 1, "price": 446, "total_amount": 446}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.371764", "customer_id": 811, "item_id": 69, "quantity": 4, "price": 27}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.371989", "customer_id": 872, "item_id": 847, "quantity": 3, "price": 14, "total_amount": 42}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.372219", "customer_id": 341, "item_id": 704, "page_url": "https://borneo.io/product/704"}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.372441", "customer_id": 333, "item_id": 944, "quantity": 1, "price": 255}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.372665", "customer_id": 438, "item_id": 412, "quantity": 2, "price": 208}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.377719", "customer_id": 873, "item_id": 188, "quantity": 2, "price": 112}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.388756", "customer_id": 450, "item_id": 97, "quantity": 5, "price": 169, "total_amount": 845}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.395356", "customer_id": 82, "item_id": 777, "quantity": 1, "price": 221}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.396462", "customer_id": 50, "item_id": 147, "quantity": 5, "price": 331, "total_amount": 1655}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.396630", "customer_id": 211, "item_id": 909, "quantity": 5, "price": 164, "total_amount": 820}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.396853", "customer_id": 133, "item_id": 414, "quantity": 4, "price": 371, "total_amount": 1484}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.397038", "customer_id": 298, "item_id": 44, "quantity": 3, "price": 46}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.397282", "customer_id": 977, "item_id": 249, "quantity": 4, "price": 218}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.397420", "customer_id": 76, "item_id": 926, "quantity": 4, "price": 476}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.397575", "customer_id": 111, "item_id": 363, "quantity": 3, "price": 233}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.397730", "customer_id": 672, "item_id": 952, "page_url": "https://borneo.io/product/952"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.397872", "customer_id": 473, "item_id": 574, "quantity": 1, "price": 108, "total_amount": 108}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.398007", "customer_id": 324, "item_id": 417, "page_url": "https://borneo.io/product/417"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.398179", "customer_id": 771, "item_id": 307, "quantity": 4, "price": 37, "total_amount": 148}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.398378", "customer_id": 476, "item_id": 322, "quantity": 3, "price": 103}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.398606", "customer_id": 740, "item_id": 283, "quantity": 5, "price": 174}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.400673", "customer_id": 133, "item_id": 823, "quantity": 1, "price": 332}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.400835", "customer_id": 958, "item_id": 904, "page_url": "https://borneo.io/product/904"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.401007", "customer_id": 934, "item_id": 344, "quantity": 2, "price": 170, "total_amount": 340}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.401137", "customer_id": 686, "item_id": 327, "quantity": 5, "price": 329}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.401331", "customer_id": 203, "item_id": 936, "quantity": 4, "price": 195}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.401472", "customer_id": 994, "item_id": 293, "quantity": 3, "price": 112}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.401585", "customer_id": 827, "item_id": 929, "quantity": 4, "price": 246, "total_amount": 984}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.401689", "customer_id": 571, "item_id": 149, "page_url": "https://borneo.io/product/149"}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.401869", "customer_id": 412, "item_id": 915, "quantity": 3, "price": 330}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.402068", "customer_id": 607, "item_id": 73, "quantity": 3, "price": 234}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.402193", "customer_id": 540, "item_id": 813, "quantity": 5, "price": 38}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.402300", "customer_id": 213, "item_id": 584, "quantity": 2, "price": 38, "total_amount": 76}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.402401", "customer_id": 183, "item_id": 362, "page_url": "https://borneo.io/product/362"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.402502", "customer_id": 972, "item_id": 469, "quantity": 2, "price": 203, "total_amount": 406}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.403318", "customer_id": 362, "item_id": 532, "quantity": 3, "price": 497}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.403580", "customer_id": 991, "item_id": 537, "quantity": 4, "price": 417}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.403744", "customer_id": 406, "item_id": 921, "page_url": "https://borneo.io/product/921"}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.403980", "customer_id": 722, "item_id": 265, "quantity": 3, "price": 248}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.404222", "customer_id": 923, "item_id": 773, "quantity": 5, "price": 301}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.404366", "customer_id": 646, "item_id": 338, "quantity": 2, "price": 353, "total_amount": 706}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.406688", "customer_id": 679, "item_id": 412, "quantity": 5, "price": 90, "total_amount": 450}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.406778", "customer_id": 910, "item_id": 387, "quantity": 4, "price": 333}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.406855", "customer_id": 821, "item_id": 349, "page_url": "https://borneo.io/product/349"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.406925", "customer_id": 228, "item_id": 334, "page_url": "https://borneo.io/product/334"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.406992", "customer_id": 423, "item_id": 18, "page_url": "https://borneo.io/product/18"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.407060", "customer_id": 299, "item_id": 853, "quantity": 4, "price": 432, "total_amount": 1728}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.407147", "customer_id": 315, "item_id": 521, "quantity": 5, "price": 418}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.407217", "customer_id": 455, "item_id": 534, "quantity": 5, "price": 398, "total_amount": 1990}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.407280", "customer_id": 321, "item_id": 308, "quantity": 5, "price": 371}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.407350", "customer_id": 352, "item_id": 781, "quantity": 3, "price": 93}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.407415", "customer_id": 199, "item_id": 47, "quantity": 5, "price": 444}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.407483", "customer_id": 860, "item_id": 649, "quantity": 5, "price": 119}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.407547", "customer_id": 855, "item_id": 896, "page_url": "https://borneo.io/product/896"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.407609", "customer_id": 810, "item_id": 939, "page_url": "https://borneo.io/product/939"}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.407671", "customer_id": 825, "item_id": 371, "quantity": 1, "price": 370}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.407732", "customer_id": 967, "item_id": 749, "quantity": 5, "price": 80}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.407792", "customer_id": 396, "item_id": 534, "quantity": 4, "price": 57}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.418632", "customer_id": 989, "item_id": 541, "quantity": 4, "price": 133, "total_amount": 532}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.418894", "customer_id": 396, "item_id": 85, "quantity": 2, "price": 49}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.419050", "customer_id": 684, "item_id": 693, "quantity": 5, "price": 13}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.420975", "customer_id": 492, "item_id": 407, "quantity": 3, "price": 114}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.421157", "customer_id": 227, "item_id": 215, "page_url": "https://borneo.io/product/215"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.421401", "customer_id": 220, "item_id": 125, "page_url": "https://borneo.io/product/125"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.421543", "customer_id": 425, "item_id": 646, "page_url": "https://borneo.io/product/646"}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.421669", "customer_id": 176, "item_id": 347, "quantity": 2, "price": 490}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.421816", "customer_id": 167, "item_id": 107, "page_url": "https://borneo.io/product/107"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.421929", "customer_id": 475, "item_id": 92, "quantity": 5, "price": 32, "total_amount": 160}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.422063", "customer_id": 901, "item_id": 503, "page_url": "https://borneo.io/product/503"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.422187", "customer_id": 641, "item_id": 160, "page_url": "https://borneo.io/product/160"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.422331", "customer_id": 951, "item_id": 70, "quantity": 1, "price": 360, "total_amount": 360}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.422485", "customer_id": 168, "item_id": 292, "quantity": 1, "price": 86}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.422613", "customer_id": 624, "item_id": 656, "page_url": "https://borneo.io/product/656"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.423518", "customer_id": 364, "item_id": 132, "page_url": "https://borneo.io/product/132"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.423705", "customer_id": 564, "item_id": 626, "page_url": "https://borneo.io/product/626"}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.423824", "customer_id": 713, "item_id": 426, "quantity": 4, "price": 116}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.423944", "customer_id": 581, "item_id": 997, "quantity": 3, "price": 301, "total_amount": 903}
+{"event": "add_to_cart", "timestamp": "2024-07-07T13:58:37.424058", "customer_id": 698, "item_id": 616, "quantity": 1, "price": 21}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.424170", "customer_id": 845, "item_id": 247, "page_url": "https://borneo.io/product/247"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.424313", "customer_id": 229, "item_id": 217, "page_url": "https://borneo.io/product/217"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.424465", "customer_id": 305, "item_id": 171, "quantity": 2, "price": 286, "total_amount": 572}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.427689", "customer_id": 107, "item_id": 474, "page_url": "https://borneo.io/product/474"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.427956", "customer_id": 968, "item_id": 196, "page_url": "https://borneo.io/product/196"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.428091", "customer_id": 246, "item_id": 753, "page_url": "https://borneo.io/product/753"}
+{"event": "page_visit", "timestamp": "2024-07-07T13:58:37.428211", "customer_id": 280, "item_id": 775, "page_url": "https://borneo.io/product/775"}
+{"event": "purchase", "timestamp": "2024-07-07T13:58:37.428322", "customer_id": 361, "item_id": 8, "quantity": 3, "price": 220, "total_amount": 660}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.428561", "customer_id": 924, "item_id": 644, "quantity": 2, "price": 440}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.428766", "customer_id": 278, "item_id": 14, "quantity": 3, "price": 299}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.428974", "customer_id": 557, "item_id": 410, "quantity": 4, "price": 190}
+{"event": "remove_from_cart", "timestamp": "2024-07-07T13:58:37.429111", "customer_id": 28, "item_id": 732, "quantity": 3, "price": 366}
